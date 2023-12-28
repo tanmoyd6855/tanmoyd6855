@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmoy Dhar
 - 👀 I’m highly interested in new technologies and data sciences.
-- 🌱 I’m currently pusuing my degree in M.Tech Data Sciences.
+- 🌱 I’m currently pushed my degree in M.Tech Data Sciences.
 - 💞️ I’m looking to collaborate on data sciences field.
 
 <!---
